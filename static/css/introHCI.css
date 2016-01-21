@@ -33,6 +33,9 @@ body {
      z-index: -1;	
 }
 
+.jumbotron p.active{
+     color:blue;
+}
 .jumbotron p {
      color: #6e6e6e;
 }
